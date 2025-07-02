@@ -1,0 +1,4 @@
+First, install xampp, after that composer, verify it.
+After that install and setup laravel.
+Create new repository, clone it and copy all the content from laravel and paste it in the clone file.
+git add, commit and push
