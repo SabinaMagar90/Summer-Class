@@ -1,15 +1,16 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 @include('header.header')
 
 <body>
 
-@include('header.nav')
+@include('header.sidebar')
 
 @yield('content')
+
 
 @include('footer.footer')
 
 </body>
-</html>
+</html> -->
